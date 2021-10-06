@@ -1,0 +1,14 @@
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\bin\Debug\netcoreapp3.1\guessNumber1.exe
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\bin\Debug\netcoreapp3.1\guessNumber1.deps.json
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\bin\Debug\netcoreapp3.1\guessNumber1.runtimeconfig.json
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\bin\Debug\netcoreapp3.1\guessNumber1.runtimeconfig.dev.json
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\bin\Debug\netcoreapp3.1\guessNumber1.dll
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\bin\Debug\netcoreapp3.1\guessNumber1.pdb
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.csproj.AssemblyReference.cache
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.AssemblyInfoInputs.cache
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.AssemblyInfo.cs
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.csproj.CoreCompileInputs.cache
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.dll
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.pdb
+C:\Users\eric\source\repos\guessNumber1\guessNumber1\obj\Debug\netcoreapp3.1\guessNumber1.genruntimeconfig.cache
